@@ -1,3 +1,4 @@
 Dit is een tekstfile
 met regel 2
 en regel 3
+regel 4 toegevoegd na de push naar centraal
