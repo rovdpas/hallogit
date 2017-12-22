@@ -1,0 +1,3 @@
+Dit is een tekstfile
+met regel 2
+en regel 3
