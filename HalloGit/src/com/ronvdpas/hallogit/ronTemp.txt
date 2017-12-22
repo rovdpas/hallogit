@@ -2,5 +2,5 @@ Dit is een tekstfile
 met regel 2
 en regel 3
 regel 4 toegevoegd na de push naar centraal
-regel 5 toegevoegd nav feature 1
+regel 5 ik wil dat hier 3 staat
 regel 6 toegevoegd nav feature 1
