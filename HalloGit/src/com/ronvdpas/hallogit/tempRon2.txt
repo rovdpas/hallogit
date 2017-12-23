@@ -1,2 +1,2 @@
 Dit is een nieuwe file
-Deze is gemaakt in feature 2
+Deze is gewijzigd in feature 1 van de nieuwe sessie
