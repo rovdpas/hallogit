@@ -1,2 +1,3 @@
 Dit is een nieuwe file
-Deze is gemaakt in feature 2
+Deze is ook gewijzigd in feature3 van de nieuwe sessie
+En ik heb een regel toegevoegd
