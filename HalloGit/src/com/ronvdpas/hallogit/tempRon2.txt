@@ -1,5 +1,5 @@
-Dit is een nieuwe file
 Deze is gewijzigd in feature 1 van de nieuwe sessie - lekker laten staan uit feature 1
 Deze is ook gewijzigd in feature3 van de nieuwe sessie - gewijzigd in feature 3
-En ik heb een regel toegevoegd - toegevoegd in feature 3
+En ik heb een regel toegevoegd - toegevoegd in feature 3 en regel aangepast
+aan het eind deze regel toegevoegd en de eerste regel verwijderd
 
