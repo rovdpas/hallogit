@@ -1,3 +1,5 @@
-16:33 Giyhub regel 1 gewijzigd
+16:43 Beide regels aangepast
+16:43 Maar wel laten staan
 15:36 Derde regel direct op Github toegevoegd
 15:42 Vierde regel lokaal toegevoegd
+16:32 Regel 5 toegevoegd
