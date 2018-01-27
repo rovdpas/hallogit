@@ -1,3 +1,4 @@
-15:43 Github: Regel 1 volledig gewijzigd en regel 2 is verwijderd
+16:32 Lokaal regel 1 gewijzigd
 15:36 Derde regel direct op Github toegevoegd
 15:42 Vierde regel lokaal toegevoegd
+16:32 Regel 5 toegevoegd
