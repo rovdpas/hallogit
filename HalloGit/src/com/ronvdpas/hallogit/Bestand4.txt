@@ -1,4 +1,4 @@
-1 Github regel 1 en regel lokaal toegevoegd
+1 Regel 1 weer helemaal lokaal
 2 Maar wel laten staan
 3 Derde regel direct op Github toegevoegd
 4 Vierde regel lokaal toegevoegd
@@ -6,3 +6,4 @@
 5c Github ook een regel toegevoegd
 6 regel 6 toegevoegd en die laten staan
 7 Regel 7 toegevoegd
+8 Regel 8 toegevoegd
