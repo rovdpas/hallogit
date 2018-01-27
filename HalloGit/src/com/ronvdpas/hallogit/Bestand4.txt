@@ -3,4 +3,5 @@
 15:36 Derde regel direct op Github toegevoegd
 15:42 Vierde regel lokaal toegevoegd
 16:32 Regel 5 toegevoegd
-Github regel 6 toegevoegd
+Github regel 6 toegevoegd en die laten staan
+16:32 Regel 5 toegevoegd
