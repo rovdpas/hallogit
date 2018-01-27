@@ -1,3 +1,4 @@
 15:20 Dit is de eerste regel in het nieuwe bestand 4
 15:34 Tweede regel in bestand 4
 15:36 Derde regel direct op Github toegevoegd
+15:42 Vierde regel lokaal toegevoegd
