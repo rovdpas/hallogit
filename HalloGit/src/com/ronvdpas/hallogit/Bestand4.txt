@@ -1,7 +1,7 @@
-16:43 Beide regels aangepast
-16:43 Maar wel laten staan
-15:36 Derde regel direct op Github toegevoegd
-15:42 Vierde regel lokaal toegevoegd
-16:32 Regel 5 toegevoegd
-Github regel 6 toegevoegd en die laten staan
-16:32 Regel 5 toegevoegd
+1 Beide regels aangepast
+2 Maar wel laten staan
+3 Derde regel direct op Github toegevoegd
+4 Vierde regel lokaal toegevoegd
+5 Regel 5 toegevoegd
+6 regel 6 toegevoegd en die laten staan
+7 Regel 7 toegevoegd
