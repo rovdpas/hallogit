@@ -1,1 +1,2 @@
 15:20 Dit is de eerste regel in het nieuwe bestand 4
+15:34 Tweede regel in bestand 4
