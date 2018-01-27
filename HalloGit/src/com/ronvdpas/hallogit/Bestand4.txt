@@ -1,3 +1,2 @@
-15:20 Dit is de eerste regel in het nieuwe bestand 4
-15:34 Tweede regel in bestand 4
+15:43 Github: Regel 1 volledig gewijzigd en regel 2 is verwijderd
 15:36 Derde regel direct op Github toegevoegd
