@@ -2,7 +2,7 @@
 2 Maar wel laten staan
 3 Derde regel direct op Github toegevoegd
 4 Vierde regel lokaal toegevoegd
-5 Regel 5 toegevoegd
+5 Regel 5 toegevoegd  -  remote gewijzigd
 5c Github ook een regel toegevoegd
 6 regel 6 toegevoegd en die laten staan
 7 Regel 7 toegevoegd
