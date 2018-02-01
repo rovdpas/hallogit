@@ -1,15 +1,4 @@
-1 Regel 1 weer helemaal lokaal
-2 Maar wel laten staan
-3 Derde regel direct op Github toegevoegd
-4 Vierde regel lokaal toegevoegd
-5 Regel 5 toegevoegd  -  remote gewijzigd
-5c Github ook een regel toegevoegd
-6 regel 6 toegevoegd en die laten staan
-7 Regel 7 toegevoegd
-8 Regel 8 toegevoegd
-Laatste regel alleen in de master toegevoegd
-laatste regel verwijderd
-8 Regel 8 toegevoegd
-Laatste regel alleen in de master toegevoegd
-laatste regel verwijderd
-regel 12 toegevoegd
+1 regel 1
+2 regel 2
+3 regel 3
+4 regel 4 laatste regel
