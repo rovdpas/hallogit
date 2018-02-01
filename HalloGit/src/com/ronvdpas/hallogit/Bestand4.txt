@@ -2,5 +2,6 @@
 2 regel 2
 4 regel 4 laatste regel
 5 regel 5 toegevoegd
+5 regel 5 toegevoegd
 6 regel 6 toegevoegd
 7 regel 7 in branch demo toegevoegd
